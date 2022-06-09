@@ -6,10 +6,6 @@ body {
   grid-auto-rows: 100px;
 }
 
-div {
- background-color: rgb(106, 163, 233);
-}
-
 h1 {
   text-align: left;
   font-size: 52px;
