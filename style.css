@@ -1,9 +1,13 @@
 body {
   font-family: 'Roboto Slab', serif;
-  background-color:rgb(106, 163, 233);
+  background-color: rgb(27, 18, 147)
   display: grid;
   grid-template-columns: 400px 400px 400px;
   grid-auto-rows: 100px;
+}
+
+div {
+ background-color: rgb(106, 163, 233);
 }
 
 h1 {
